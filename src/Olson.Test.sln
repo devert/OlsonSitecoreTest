@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olson.Test", "Olson.Test\Olson.Test.csproj", "{8F3854DC-F0F2-4EC1-A0B7-EC7DC5442DA5}"
 EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Olson.Test.Master", "Olson.Test.Master\Olson.Test.Master.scproj", "{718BA5C0-2522-45C3-A391-4818E4C37F21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{8F3854DC-F0F2-4EC1-A0B7-EC7DC5442DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F3854DC-F0F2-4EC1-A0B7-EC7DC5442DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F3854DC-F0F2-4EC1-A0B7-EC7DC5442DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{718BA5C0-2522-45C3-A391-4818E4C37F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718BA5C0-2522-45C3-A391-4818E4C37F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718BA5C0-2522-45C3-A391-4818E4C37F21}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{718BA5C0-2522-45C3-A391-4818E4C37F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718BA5C0-2522-45C3-A391-4818E4C37F21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{718BA5C0-2522-45C3-A391-4818E4C37F21}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
