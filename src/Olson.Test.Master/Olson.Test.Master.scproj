@@ -59,7 +59,7 @@
     </PackageReadme>
     <PackageVersion>
     </PackageVersion>
-    <SitecoreAssemblyPath>..\Olson.Test\bin</SitecoreAssemblyPath>
+    <SitecoreAssemblyPath>..\libs</SitecoreAssemblyPath>
   </PropertyGroup>
   <ItemGroup>
     <AssemblyAttributes Include="AssemblyFileVersion">
