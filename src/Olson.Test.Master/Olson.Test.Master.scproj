@@ -133,5 +133,6 @@
   </Target>
   <Target Name="SpicNSpan" AfterTargets="Clean">
     <RemoveDir Directories="$(OUTDIR)"/>
+    <RemoveDir Directories=".\bin\Package_Release"/>
   </Target>
 </Project>
